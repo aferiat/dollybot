@@ -25,7 +25,7 @@ TOKEN = '2065367783:AAHKgUvA_8aoQn6QG6DIQTfSqAtsWrYzICc'
 
 ''' aws Path to songs '''
 
-PATH=Path("/home/dolly")
+PATH=Path("/home/ubuntu/dolly")
 
 
 chat_id = set()
