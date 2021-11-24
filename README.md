@@ -1,2 +1,2 @@
-# dollybot
+# Dollybot
 Dollypran Telegram Bop
