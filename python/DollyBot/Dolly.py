@@ -4,11 +4,9 @@ Deployed using heroku.
 Author: liuhh02 https://medium.com/@liuhh02
 """
 
-from dotenv import load_dotenv
 import os
 from pathlib import Path
 import random
-import time
 import codecs
 import logging
 from telegram.ext import Updater, CommandHandler, MessageHandler, Filters, CallbackContext
